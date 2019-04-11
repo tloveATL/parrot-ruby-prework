@@ -4,5 +4,4 @@
 def parrot(exclamation = "Squawk!")
   puts exclamation
   returns exclamation
-  
 end
